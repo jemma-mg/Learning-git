@@ -1,7 +1,7 @@
-##Example Repository
+# Example Repository <!-- (# - H1 header) -->
 
-<!-- (# - H1 header) -->
+This is a sample repo, hello coders!
 
-This is a sample repo, Hello World!
+Adding another change
 
 <!-- (.md - markdown) -->
