@@ -9,4 +9,4 @@ Adding another change
  git clone "repo_path" ---> git add "files/directories" ---> git commit -m "commit_message" ---> git push origin "main/branch_name/master"
  git status, git log
 
-git checkout <branchname>
+git checkout {branchname}
