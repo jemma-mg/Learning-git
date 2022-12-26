@@ -13,7 +13,7 @@ git checkout {branchname}
 
 ### Add the remote, call it "upstream":
 
-git remote add upstream https://github.com/whoever/whatever.git
+git remote add upstream <https://github.com/<whoever>/<whatever>.git>
 
 ### Fetch all the branches of that remote into remote-tracking branches
 
