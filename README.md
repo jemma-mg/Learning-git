@@ -13,15 +13,15 @@ Adding another change
 
 git checkout {branchname}
 
-### Add the remote, call it "upstream":
+#### Add the remote, call it "upstream":
 
 git remote add upstream <https://github.com/whoever/whatever.git>
 
-### Fetch all the branches of that remote into remote-tracking branches
+#### Fetch all the branches of that remote into remote-tracking branches
 
 git fetch upstream
 
-### Make sure that you're on your master branch:
+#### Make sure that you're on your master branch:
 
 git checkout master
 
